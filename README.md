@@ -1,6 +1,6 @@
 # Nepal Area Unit Converter
 
-A responsive web app for converting between traditional Nepali land measurement units and modern units — built as a hands-on HTML/CSS/JavaScript learning project.
+A responsive web app for converting between traditional Nepali land measurement units and modern units built on HTML/CSS/JavaScript learning project.
 
 **Live demo:** https://nepali-area-unit-conversion-8a46h1e4s-apocaloptimist.vercel.app/
 
